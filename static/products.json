@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Rosuva 10mg",
+    "quantity": 20,
+    "morning": 0,
+    "afternoon": 0,
+    "night": 1
+  },
+  {
+    "name": "Truxil 30/10mg",
+    "quantity": 43,
+    "morning": 0,
+    "afternoon": 0,
+    "night": 1
+  },
+  {
+    "name": "Nebita 2.5mg",
+    "quantity": 29,
+    "morning": 0,
+    "afternoon": 0,
+    "night": 1
+  },
+  {
+    "name": "Nitro card 10mg",
+    "quantity": 34,
+    "morning": 1,
+    "afternoon": 1,
+    "night": 0
+  },
+  {
+    "name": "Finix 20mg",
+    "quantity": 78,
+    "morning": 1,
+    "afternoon": 0,
+    "night": 1
+  },
+  {
+    "name": "Montair 10mg",
+    "quantity": 37,
+    "morning": 0,
+    "afternoon": 0,
+    "night": 1
+  },
+  {
+    "name": "Nodia 10mg",
+    "quantity": 110,
+    "morning": 1,
+    "afternoon": 0,
+    "night": 1
+  },
+  {
+    "name": "Prazopress 5mg",
+    "quantity": 31,
+    "morning": 1,
+    "afternoon": 0,
+    "night": 1
+  },
+  {
+    "name": "Duovas 5/20mg",
+    "quantity": 29,
+    "morning": 1,
+    "afternoon": 0,
+    "night": 0
+  },
+  {
+    "name": "Vigorex 50mg",
+    "quantity": 32,
+    "morning": 0,
+    "afternoon": 0,
+    "night": 1
+  },
+  {
+    "name": "Lopiral 75mg",
+    "quantity": 39,
+    "morning": 0,
+    "afternoon": 1,
+    "night": 0
+  },
+  {
+    "name": "Docopa 200mg",
+    "quantity": 35,
+    "morning": 0,
+    "afternoon": 0,
+    "night": 1
+  },
+  {
+    "name": "Pulmoten 62.5mg",
+    "quantity": 22,
+    "morning": 1,
+    "afternoon": 0,
+    "night": 0
+  },
+  {
+    "name": "Dilarof 500mg",
+    "quantity": 21,
+    "morning": 0,
+    "afternoon": 1,
+    "night": 0
+  },
+  {
+    "name": "Viscotin 600mg",
+    "quantity": 21,
+    "morning": 0,
+    "afternoon": 0,
+    "night": 1
+  }
+]
